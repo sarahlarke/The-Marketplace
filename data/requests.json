@@ -1,0 +1,74 @@
+[
+  {
+    "id": "cefef7d3-4987-4506-a600-322cc120d875",
+    "title": "Need support creating a simple engagement dashboard",
+    "team": "Transformation",
+    "directorate": "Corporate Services",
+    "description": "Looking for someone to help build a lightweight dashboard to track engagement activity and responses.",
+    "skills_needed": [
+      "Data analysis",
+      "Excel dashboards",
+      "Power BI"
+    ],
+    "tags": [
+      "Insight",
+      "Dashboard",
+      "Engagement"
+    ],
+    "time_commitment": "Half day",
+    "resident_impact": "Better insight helps us target support and improve resident-facing decisions.",
+    "fit_for_future_link": "Supports a more agile, insight-led and connected organisation.",
+    "status": "Open",
+    "created_by": "Naomi Clarke",
+    "matched_person_id": null,
+    "created_at": "09 Apr 2026, 10:01"
+  },
+  {
+    "id": "50b78da7-80fa-40e6-abca-6f367c7d06cf",
+    "title": "Need help designing a poster for a staff event",
+    "team": "Learning & Development",
+    "directorate": "People & Culture",
+    "description": "Looking for support to create a clear and engaging poster for an internal careers and development event.",
+    "skills_needed": [
+      "Poster design",
+      "Canva design",
+      "Change communications"
+    ],
+    "tags": [
+      "Design",
+      "Events",
+      "Communications"
+    ],
+    "time_commitment": "1-2 hours",
+    "resident_impact": "Better staff development supports stronger services for residents.",
+    "fit_for_future_link": "Encourages collaboration and makes better use of internal talent.",
+    "status": "Open",
+    "created_by": "L&D Team",
+    "matched_person_id": null,
+    "created_at": "09 Apr 2026, 10:01"
+  },
+  {
+    "id": "c5bec10b-e032-4ada-a3b3-1ea845d61d82",
+    "title": "Looking for someone to help test a simple digital prototype",
+    "team": "Digital Improvement",
+    "directorate": "Corporate Services",
+    "description": "Seeking colleagues who enjoy testing new tools and giving practical feedback.",
+    "skills_needed": [
+      "User research",
+      "Prototype design",
+      "App prototyping"
+    ],
+    "tags": [
+      "Digital",
+      "Prototype",
+      "Innovation"
+    ],
+    "time_commitment": "1-2 hours",
+    "resident_impact": "Faster testing helps improve digital services used by residents.",
+    "fit_for_future_link": "Builds digital confidence and practical innovation across the workforce.",
+    "status": "Open",
+    "created_by": "Digital Team",
+    "matched_person_id": null,
+    "created_at": "09 Apr 2026, 10:01"
+  }
+]

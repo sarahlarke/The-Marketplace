@@ -1,0 +1,165 @@
+[
+  {
+    "id": "ad209d2c-17b9-4e01-9ced-fd9207f45415",
+    "name": "Sarah Larke",
+    "role_title": "People & Culture Manager",
+    "directorate": "People & Culture",
+    "about": "Focused on workforce transformation, hidden talent and practical innovation.",
+    "core_skills": [
+      "Strategic workforce planning",
+      "Leadership development",
+      "Workshop facilitation"
+    ],
+    "hidden_skills": [
+      "Data storytelling",
+      "Poster design",
+      "Change communications"
+    ],
+    "passion_skills": [
+      "Streamlit app building",
+      "Prototype design",
+      "People analytics"
+    ],
+    "interests": [
+      "AI",
+      "Innovation",
+      "Skills-based organisations"
+    ],
+    "preferred_commitment": [
+      "1-2 hours",
+      "Half day"
+    ],
+    "available_for_marketplace": true,
+    "created_at": "09 Apr 2026, 10:01"
+  },
+  {
+    "id": "fb97b0b9-0182-4d6c-8589-c3e5288c2b93",
+    "name": "Imran Hussain",
+    "role_title": "Business Support Officer",
+    "directorate": "Communities",
+    "about": "Strong organiser with hidden digital and design capability.",
+    "core_skills": [
+      "Coordination",
+      "Diary management",
+      "Stakeholder support"
+    ],
+    "hidden_skills": [
+      "Excel dashboards",
+      "Canva design",
+      "Event planning"
+    ],
+    "passion_skills": [
+      "Graphic design",
+      "Visual storytelling",
+      "Power BI"
+    ],
+    "interests": [
+      "Community events",
+      "Digital tools"
+    ],
+    "preferred_commitment": [
+      "1-2 hours",
+      "Half day",
+      "Project sprint"
+    ],
+    "available_for_marketplace": true,
+    "created_at": "09 Apr 2026, 10:01"
+  },
+  {
+    "id": "b64e49a2-442e-49f3-b1c8-938537f1d01e",
+    "name": "Chloe Bennett",
+    "role_title": "Housing Support Officer",
+    "directorate": "Housing",
+    "about": "Passionate about improving resident experience through insight and service design.",
+    "core_skills": [
+      "Resident support",
+      "Partnership working",
+      "Case management"
+    ],
+    "hidden_skills": [
+      "Survey design",
+      "Data analysis",
+      "Presentation design"
+    ],
+    "passion_skills": [
+      "Service design",
+      "User research",
+      "Facilitation"
+    ],
+    "interests": [
+      "Resident voice",
+      "Inclusion",
+      "Continuous improvement"
+    ],
+    "preferred_commitment": [
+      "1-2 hours",
+      "Half day"
+    ],
+    "available_for_marketplace": true,
+    "created_at": "09 Apr 2026, 10:01"
+  },
+  {
+    "id": "43f75533-7093-4578-91cb-c2d4f75e33b4",
+    "name": "Tom Davies",
+    "role_title": "Finance Analyst",
+    "directorate": "Finance",
+    "about": "Analytical thinker with a passion for automation and app prototyping.",
+    "core_skills": [
+      "Budget analysis",
+      "Forecasting",
+      "Excel modelling"
+    ],
+    "hidden_skills": [
+      "Python",
+      "Automation",
+      "Data visualisation"
+    ],
+    "passion_skills": [
+      "App prototyping",
+      "Process improvement",
+      "AI tools"
+    ],
+    "interests": [
+      "Efficiency",
+      "Digital innovation"
+    ],
+    "preferred_commitment": [
+      "Half day",
+      "Project sprint"
+    ],
+    "available_for_marketplace": true,
+    "created_at": "09 Apr 2026, 10:01"
+  },
+  {
+    "id": "025ba953-d594-4895-9d16-09991d782789",
+    "name": "Maya Patel",
+    "role_title": "Communications Officer",
+    "directorate": "Communications",
+    "about": "Creative communicator with strong design and campaign instincts.",
+    "core_skills": [
+      "Copywriting",
+      "Campaign planning",
+      "Stakeholder messaging"
+    ],
+    "hidden_skills": [
+      "Video editing",
+      "Poster design",
+      "Facilitation"
+    ],
+    "passion_skills": [
+      "Brand design",
+      "Storyboarding",
+      "Workshop design"
+    ],
+    "interests": [
+      "Resident engagement",
+      "Creative collaboration"
+    ],
+    "preferred_commitment": [
+      "1-2 hours",
+      "Half day"
+    ],
+    "available_for_marketplace": true,
+    "created_at": "09 Apr 2026, 10:01"
+  }
+]
